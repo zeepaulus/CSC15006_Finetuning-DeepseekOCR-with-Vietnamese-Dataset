@@ -1,0 +1,1 @@
+# CSC15006_Finetuning-DeepseekOCR-with-Vietnamese-Dataset
