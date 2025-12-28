@@ -1,0 +1,202 @@
+﻿folder,image,ground_truth,prediction,cer
+250,1.jpg,Thứ trưởng Bộ Tài nguyên & môi trường Đặng Hùng Võ tâm đắc với,Thứ trưởng Bộ Tài nguyên và môi trường Đặng Hùng Võ đã ra đã với,0.14516129032258066
+250,2.jpg,"cơ chế "" khuyến khích nhà đầu tư thỏa thuận với người sử dụng đất để nhận","có thể "" khuyến khích nhà đầu tư thỏa thuận với người sử đất để nhận",0.1095890410958904
+250,3.jpg,"chuyển nhượng hoặc thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử","chuyển những hoặc thực quyền sử dụng đất, nhận góp vốn bằng quyền sử",0.057971014492753624
+250,4.jpg,"dụng đất... "" Nhưng tại hội nghị hôm qua, tiếng nói từ các sở tài nguyên","dung đất... "" Nhưng tại hội nghị hôm qua, tiếng nói hỏi các sở tài nguyên",0.05555555555555555
+250,5.jpg,"& môi trường lại đều đồng thanh "" loại bỏ "" điều khoản này ra khỏi dự thảo.","và môi trường lên tiền hành "" toạ bố "" điều khoản này ra khỏi dự thảo.",0.21333333333333335
+250,6.jpg,Giám đốc Sở Tài nguyên & môi trường Hải Phòng Chu Minh Tuấn cho,giám đốc Sở Tài nguyên và môi trường Hải Phòng Chương trình chưa,0.19047619047619047
+250,7.jpg,"biết thành phố cảng từng áp dụng cơ chế "" thỏa thuận "" trong một số","biết thành phố cảng đứng áp dụng các chế "" hoả "" thuận "" trong một số",0.13432835820895522
+250,8.jpg,"rất ít trường hợp, vậy mà đã gây phản ứng theo kiểu dây chuyền khá","rất ít trường hợp, vậy mà đã gây phản ứng y theo kiểu đầy chuyện "" lạ """,0.16666666666666666
+250,9.jpg,"mạnh : anh này nhận tiền rồi quay lại đòi nữa, anh kia thỏa thuận","mạnh : anh này nhận tiền rồi quay lại đòi nữa, anh lựa theo thuận",0.06153846153846154
+250,10.jpg,xong quay ra đòi thỏa thuận lại...,xông quay ra đôi thoại thưa là...,0.29411764705882354
+250,11.jpg,"Chưa kể để doanh nghiệp và người dân "" nói chuyện "" với nhau như","chưa kể để doanh nghiệp và người dân "" nói chuyện "" với nhau như",0.0
+250,12.jpg,"vậy, quyền của cơ quan quản lý nhà nước sẽ mất đi. "" Tôi cũng có suy","vậy, quyền của cơ quan quản lý nhà nước sẽ mất đi "". Tôi cũng có suy",0.029411764705882353
+250,13.jpg,"nghĩ như đồng chí "" Bỏ được qui định này đi thì tốt. Cùng một lúc chúng","nghỉ như đường chợ "" Bỏ được qui định này đi thì tốt. Cũng một lúc chúng",0.07042253521126761
+250,14.jpg,ta thực hiện hai cơ chế (vừa Nhà nước thực hiện thu hồi đất như cách,ra thuốc hiệu hai cơ chế (vừa nhà nước thuốc hiệu thu hồi đất như cách,0.10294117647058823
+250,15.jpg,"làm lâu nay, vừa khuyến khích nhà đầu tư thỏa thuận với người sử dụng","làn nay, vừa khuyên khắc nhà đầu hộ thuê thanh vốn người sử dụng",0.2463768115942029
+250,16.jpg,"đất) thì phức tạp - ông Trịnh Kiên Đĩnh, phó giám đốc Sở Tài","đất) thì phải tạp - ông Trịnh Liên Định, phó giám đốc Sở Tài",0.06666666666666667
+250,17.jpg,"nguyên - môi trường và nhà đất Hà Nội, lên tiếng.","nguyệt - mới được vụ nhà đất Hà Nội, liên tiệng.",0.22448979591836735
+250,18.jpg,"Bảo vệ lập trường của cơ quan soạn thảo, Thứ trưởng Đặng Hùng Võ khẳng định","Đào về lập thường của cơ quan soạn trưa, Thứ trưởng Đặng Hùng Võ khẳng định",0.09333333333333334
+250,19.jpg,""" trường hợp nhà đầu tư có nhu cầu thỏa thuận với người đang sử dụng đất, chúng",""" thường hợp nhà đầu tư có nhu cầu thỏa thuận với người đang rời dựng đất, chúng",0.06329113924050633
+250,20.jpg,"ta cần khuyến khích vì Nhà nước chẳng mất cái gì cả "". Ông Võ "" kêu gọi "" :","tả cấn khuyến khích từ Nhà nước chẳng suất cái gì cả "". Ông Võ "" kiêu gọi "" :",0.09333333333333334
+250,21.jpg,"chúng ta cần thay đổi trong quan điểm, không nên để hệ thống hành chính","chúng ta cần thay đổi trong quan điểm, không nên để hệ thống hành chính",0.0
+250,22.jpg,"ôm về mình nhiều quá, bởi ôm càng nhiều thì sai càng nhiều. Bộ trưởng Mai","Ôm về mình khiến quá, bởi ôm căng nhiều thì sai càng nhiều. Bộ trưởng Mai",0.0547945205479452
+250,23.jpg,Ái Trực tiếp lời : Các nước đều áp dụng cơ chế tự thỏa thuận khi thu hồi,Ái trực tiếp lại : Các nước đều ép dựng và chỉ trì thoát thông khi thu hồi,0.19444444444444445
+250,24.jpg,đất.,đất.,0.0
+250,25.jpg,"Ngay cả trường hợp ta không qui định, người dân và doanh nghiệp vẫn thực hiện","Ngay cả trường hợp ta không qui định, người dân và doanh nghiệp vẫn thực hiện",0.0
+250,26.jpg,"cơ chế này. "" Nếu cứ dùng quyền lực hành chính nhà nước với mô hình khuôn","cơ chế này. "" Nếu cứ dùng quyền lực hành chính nhà nước với mô hình khoán",0.0273972602739726
+250,27.jpg,"cứng, người dân sẽ kêu "" - ông Trực nói. Chuyện "" bố "" - "" con "". Phó giám đốc","cũng, người dân sẽ kêu "" - ông Trực nói. Chiếm "" bố "" - "" con "". Phó Giám đốc",0.0641025641025641
+250,28.jpg,Sở Tài nguyên - môi trường & nhà đất Hà Nội Trịnh Kiên Đĩnh đề nghị : thẩm,Số Tây nguyên - mới trường đi nhờ đất Hà Nội Trinh Kiên Điều để ngày trời làm,0.28378378378378377
+250,29.jpg,"quyền thu hồi đất, giao đất phải được thể hiện theo tinh thần "" ông bố bao trùm","quyền hạn lợi đất, giao đất phải được thực hiện theo tình hình "" song lối báo trầm",0.21518987341772153
+250,30.jpg,"ông con "". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đất","Động cơ "". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đất",0.0547945205479452
+250,31.jpg,"thuộc thẩm quyền của UBND cấp quận, huyện (thay vì qui định như hiện nay,","thực thẩm quyền của UBND cấp quận, huyện (thay vì tại địa phương,",0.2054794520547945
+250,32.jpg,""" ông bố "" muốn làm điều này phải thông báo cho "" ông con "" thực hiện, vừa nhiêu",""" ông bố "" nước lâm đầu vàng phải không báo cho ông con "" thực hiện, vừa nhiêu",0.1625
+250,33.jpg,khê vừa không thể hiện hướng đi cải cách thủ tục hành chính).,khó vừa không thể kiện hướng đi các cách thủ tục thành thủ thuộc).,0.19672131147540983
+250,34.jpg,"Lập tức Thứ trưởng Đặng Hùng Võ phản ứng : "" ông bố "" có quyền của "" ông bố "",","Lập tức Thứ trưởng Đặng Hùng Võ phân công : "" Ông bố có quyền của "" ông bố "",",0.0641025641025641
+250,35.jpg,""" ông con "" có quyền của "" ông con "". Luật không cho phép "" ông bố "" làm thay "" ông",""" Ông còn có quyền của "" ông con "". Lượt không cho phép "" ông bố "" làm thay "" ông",0.060240963855421686
+250,36.jpg,"con "". Trường hợp nào làm thay là phạm luật, chỉ có điều hiện nay các "" ông","con "". Trường hợp nào làm thay là phạm luật, chỉ có điều kiện này sẽ công",0.09333333333333334
+250,37.jpg,"con "" không dám kêu mà thôi!","còn "" không dám kiều mà thôi! "".",0.21428571428571427
+251,1.jpg,Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa,Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa,0.0
+251,2.jpg,IX của Đảng bộ TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh,"IX của Đảng bộ TP.HCM về xây dựng Đảng : tiếp tục chỉ đạo mạnh,",0.016129032258064516
+251,3.jpg,"mẽ, có hiệu quả cuộc vận động xây dựng chỉnh đốn Đảng theo tinh","mê, có hiệu quả cuộc vận động xây dựng chính đối với Đảng theo tinh",0.1111111111111111
+251,4.jpg,"thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục thực hiện việc","thẩm nghị quyết trung ương 6 (lần số). Theo đó, tiếp tục được hiện việc",0.1
+251,5.jpg,kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công chức;,lệ khai nhà đất và cơ sở xin vượt hinh doanh của cán bộ - công chức.,0.1323529411764706
+251,6.jpg,"tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt","tăng cường thành kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt",0.015384615384615385
+251,7.jpg,trong lĩnh vực đất đai và các công trình trọng điểm.,trong kinh việc đất đai và các công trình trọng điểm.,0.07692307692307693
+251,8.jpg,Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người,Xứ lợi nghèm mình theo pháp luật và kỷ luật của Đảng những người,0.09375
+251,9.jpg,có hành vi sai trái và những người bao che. Thực hiện tốt các quy định,"có hành vi sai trái và những người bao che. Thực hiện tốt các quy định,",0.014285714285714285
+251,10.jpg,"đối với cán bộ lãnh đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ","đối với văn bản bộ lãnh đạo, quản lý đã xảy ra tham nhũng, tiêu cực ở cả",0.11764705882352941
+251,11.jpg,"quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức","quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức",0.0
+251,12.jpg,cơ sở Đảng. Tiếp tục đổi mới và nâng cao công tác cán bộ. Tiếp tục,cơ sở Đảng. Tiếp tục đổi mới và nâng cao công tác cảnh báo. Tiếp tục,0.06060606060606061
+251,13.jpg,đổi mới phương thức lãnh đạo của cấp ủy Đảng theo phương châm,tôi mới phương thức lãnh đạo của cấp ủy Đảng theo phương châm,0.03278688524590164
+251,14.jpg,hướng mạnh về cơ sở.,hướng mạnh về cổ sở.,0.05
+251,15.jpg,"Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương,",Về cái cách hành chính : Tập trung chẩn chính mạnh hơn nữa từ cương,0.08823529411764706
+251,16.jpg,"kỷ luật trong bộ máy hành chính, nâng cao tinh thần trách nhiệm và","kỷ luật trọng bộ máy hành chính, nâng cao trình thẩm thấu nhiệm và",0.13636363636363635
+251,17.jpg,"ý thức kỷ luật của CB - CC, nhất là trên lĩnh vực nhà đất, đầu tư,","ý thức kỷ luật của CĐ - CC, nhất là trên lĩnh vực nhà đất, đầu tư,",0.015151515151515152
+251,18.jpg,"kinh doanh, trật tự xây dựng và giải quyết khiếu nại, tố cáo.","tinh doanh, trật tự cây dừng và giải quyết khiếu nại, đó là cái",0.16393442622950818
+251,19.jpg,Xây dựng hoàn thiện hệ thống các qui trình thủ tục hành chính.,Xây dựng hoàn thiện hệ thống các quy trình thủ tục hành chính.,0.016129032258064516
+251,20.jpg,"Kiên quyết chấn chỉnh bộ máy hành chính các cấp, nhanh chóng","kiến quyết chẩn chính bộ máy hành chính của cấp, nhanh chóng",0.08333333333333333
+251,21.jpg,"khắc phục tình trạng quan liêu, cửa quyền, hách dịch.","khác phục tinh tráng quan liêu, cửa quyền, khách tiếp thị.",0.20754716981132076
+251,22.jpg,Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn,Xây dựng và phát triển đền ngọt CB - CC có chất lượng chuyên môn,0.06349206349206349
+251,23.jpg,"cao, có phẩm chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ","cao, có phần chặt, đào được. Kiểm tra, xử lý hiện quyết các vụ",0.13114754098360656
+251,24.jpg,"tham nhũng, lãng phí, làm thất thoát tài sản nhà nước... Về kinh","tham nhũng, lặng phí, làm thất thoát tại sân nhà nước... Về kinh",0.046875
+251,25.jpg,"tế : Tập trung mọi nỗ lực nhằm tháo gỡ sản xuất kinh doanh,","tế : Tập trung mọi nỗ lực nhằm tháo gỡ sản xuất kinh doanh,",0.0
+251,26.jpg,đưa tốc độ tăng trưởng GDP trên địa bàn TP đạt 12% năm,dựa trên tài nguyên - vật liệu (TP) đạt 16% năm,0.5925925925925926
+251,27.jpg,"2004 và trên 12% năm 2005. Phát triển nhanh các ngành dịch vụ,",2004 và trên 125 năm 2005. Thật trên nhanh các ngành dịch vụ,0.0967741935483871
+251,28.jpg,tái cấu trúc các ngành công nghiệp.,tài cầu trực cải ngành công nghiệp.,0.14285714285714285
+251,29.jpg,Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai,tiếp tục nhận rộng các mỏ hình huy động vốn đầu tư. Tập trung khai,0.030303030303030304
+251,30.jpg,thác các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa,thuê các nguồn vốn cho ngân sách. Tổng kết quả trình cổ phần hóa,0.046875
+251,31.jpg,doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà,doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà,0.0
+251,32.jpg,nước. Triển khai quyết định của TP về một số chính sách ưu đãi,nước. Triển khai quyết định của TP về một số chính sách ưu đãi,0.0
+251,33.jpg,đối với các dự án có vốn đầu tư nước ngoài. Rà soát lại chương,đối với các dự án cơ sở đầu tư nước ngoài. Hai sách lãnh chương,0.20967741935483872
+251,34.jpg,trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh,tành hội nhập chính tắc của TP. Về văn hoá - xã hội : đẩy mạnh,0.14754098360655737
+251,35.jpg,"xã hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân","cả hội hoặc, phát triển xã hội học tập, vui tiếng lầu từ ngàn",0.20689655172413793
+251,36.jpg,sách cho giáo dục - đào tạo.,cách cho giáo dục - đào tạo.,0.03571428571428571
+251,37.jpg,Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh,Nàng cao nặng lúc quân lý nhà nước trên các lĩnh vực kinh doanh,0.06349206349206349
+251,38.jpg,"dịch vụ văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý","dịch vụ văn hoá : khắc phục những sở hộ, tiêu cực trong quản lý,",0.11290322580645161
+251,39.jpg,và hoạt động văn hóa. Tiếp tục tập trung nguồn lực cho chương,và hoạt động văn hoá. Tiếp tục tập trung nguồn lực cho chương,0.03278688524590164
+251,40.jpg,trình 3 giảm...,tỉnh 3 giảm...,0.13333333333333333
+252,1.jpg,Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa IX của Đảng bộ,"Chương trình hành động thực hiện Nghị quyết Trung ương 9 - khai 1x của Đảng 15,",0.07692307692307693
+252,2.jpg,"TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cuộc vận động xây","TP.HCM về xây dựng Đảng : tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cuộc vận động",0.04938271604938271
+252,3.jpg,"dựng chỉnh đốn Đảng theo tinh thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục","dựng chính đơn Đảng theo tinh thần nghị quyết trung ương (lần 2). Theo đó, tập trung",0.11764705882352941
+252,4.jpg,thực hiện việc kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công,thực hiện việc kê khai nhà đất và cơ sở sản xuất lãnh danh của cán bộ - công,0.03896103896103896
+252,5.jpg,"chức; tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt","chức, tổng công thành kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt",0.07042253521126761
+252,6.jpg,trong lĩnh vực đất đai và các công trình trọng điểm.,định lĩnh vực đã đại và các công trình trong điểm.,0.15384615384615385
+252,7.jpg,Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người có hành,Xứ lý nghiệm mình theo pháp luật và kỷ luật của Đảng những người có hành,0.041666666666666664
+252,8.jpg,vi sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh,vị sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh,0.012195121951219513
+252,9.jpg,"đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiện toàn và","Đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiểm toán và",0.04
+252,10.jpg,tăng cường sức chiến đấu của tổ chức cơ sở Đảng. Tiếp tục đổi mới và nâng,tăng cường sức chiến đấu của tôi chúc có sở đăng. Tiếp tục đổi mới và nâng,0.0684931506849315
+252,11.jpg,cao công tác cán bộ. Tiếp tục đổi mới phương thức lãnh đạo của cấp ủy,cao công tác cáo bộ. Tiếp tục đổi mới phương thức làm đạo của cấp ủy,0.057971014492753624
+252,12.jpg,Đảng theo phương châm hướng mạnh về cơ sở.,Đang theo phương châm hướng mạng về cơ sở.,0.047619047619047616
+252,13.jpg,"Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương, kỷ luật trong","Về cái cách hành chính : Tập trung chẩn chứng mạnh hơn nữa kỹ cương, kỷ luật trong",0.06097560975609756
+252,14.jpg,"bộ máy hành chính, nâng cao tinh thần trách nhiệm và ý thức kỷ luật của CB - CC,","bộ mấy hành chính, nặng cao tìm thẩm trước nhiệm vụ ý thức ký hiệu của CBQC",0.2625
+252,15.jpg,"nhất là trên lĩnh vực nhà đất, đầu tư, kinh doanh, trật tự xây dựng và","nhặt lên trên lưới vực nhà đất, đầu tư, kinh doanh, trả tự xây dựng và",0.11428571428571428
+252,16.jpg,"giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các qui trình","giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các quy trình",0.013888888888888888
+252,17.jpg,"thủ tục hành chính. Kiên quyết chấn chỉnh bộ máy hành chính các cấp,",thú tục hành chính. Kiên quyết chấn chỉnh bộ máy hành chính các cấp,0.029411764705882353
+252,18.jpg,"nhanh chóng khắc phục tình trạng quan liêu, cửa quyền, hách dịch.","nhân chồng thác phục tình trạng quan liêu của quyền, khách dành.",0.15384615384615385
+252,19.jpg,"Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn cao, có phẩm","Xây dựng và phát triển đối ngữ CB - CĐ có chất lượng chuyên môn cao, có phần",0.06578947368421052
+252,20.jpg,"chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ tham nhũng, lãng phí,","chất, đạo đức. Kiểm tra, xử lý kiến quyết các cơ quan những, lặng phí,",0.11428571428571428
+252,21.jpg,làm thất thoát tài sản nhà nước... Về kinh tế : Tập trung mọi nỗ lực,làm thái thoát tại sân nhà nước... Về kinh tế : tập trung môi nguy hiểm,0.17647058823529413
+252,22.jpg,"nhằm tháo gỡ sản xuất kinh doanh, đưa tốc độ tăng trưởng GDP trên địa","nhằm tháo gỡ sản xuất lẫn doanh, đưa tốc độ tăng trưởng GDP trở lại",0.11594202898550725
+252,23.jpg,bàn TP đạt 12% năm 2004 và trên 12% năm 2005. Phát triển nhanh,bán 7P đạt 12% năm 2004 và trên 12% năm 2005. Phải tiến hành,0.12903225806451613
+252,24.jpg,"các ngành dịch vụ, tái cấu trúc các ngành công nghiệp.","các ngân dịch vụ, tài cầu trực cổng ngân công nghiệp.",0.18518518518518517
+252,25.jpg,Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai thác,Tiếp tục nhận rộng các mô hình. Huy đóng vốn đầu tư. Tập trung khai thác,0.04225352112676056
+252,26.jpg,các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh,các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh,0.0
+252,27.jpg,nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước.,"nghiệp nhà nước và việc tổ chức, sắp xếp lại doanh nghiệp nhà nước.",0.015151515151515152
+252,28.jpg,Triển khai quyết định của TP về một số chính sách ưu đãi đối với,Triển khai quyết định của TP về môi đô chính sách du lịch đã đối với,0.171875
+252,29.jpg,các dự án có vốn đầu tư nước ngoài. Rà soát lại chương,các dự án có vốn đầu tư nước ngoài. Rà soát lại các chương,0.07407407407407407
+252,30.jpg,trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh xã,"trình hồi nhập kinh tế của TP. Về văn hoá - xã hội, đầy mấy xã",0.140625
+252,31.jpg,"hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân sách","hồi hóa, phải triển xã hội học tập, tư tưởng đầu tư ngân sách",0.13333333333333333
+252,32.jpg,cho giáo dục - đào tạo.,cho giao duc - đào tạo.,0.08695652173913043
+252,33.jpg,Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ,Nâng cao năng lực quản lý nhà nước trên các hình sự của bình đảm dịch vụ,0.18309859154929578
+252,34.jpg,"văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý và hoạt động","văn hóa; khắc phục những sở hộ, đều cực trọng quản lý và hoạt động",0.08955223880597014
+252,35.jpg,văn hóa. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...,văn hoá. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...,0.03125
+253,1.jpg,"Viết tiếp về vụ anh Trương Xuân Đại. Ngay từ khi tờ báo có bài "" Số phận của","Viết tiếp về xuân, xuân 2, Đại Nghệ và khối, tòa báo "" Có phần của",0.4342105263157895
+253,2.jpg,"những người nói lên sự thật "" phát hành, nhiều bạn đọc đã bày tỏ sự chia sẻ,","những người mới lên sự thật "" phát hành, nhân lâm đọc đã bây giờ thu nhà sẽ,",0.25
+253,3.jpg,ủng hộ anh Trương Xuân Đại. Một bạn đọc 67 tuổi ở Q.11 đến gửi tặng anh Trương,"ứng hộ anh Trương Xuân Đại. Mặt bàn đạc 67 tuổi ở Q.1, trên "" gửi "" tông anh Trương",0.16666666666666666
+253,4.jpg,"Xuân Đại 150.000 đồng, một cô gái tên Nhung ở Tân Bình gửi tặng 100.000 đ,","Xuân Đại 150.000 đồng, mất 6 giờ tên Nhưng ở Tân Bình gửi tặng 100.000,",0.10810810810810811
+253,5.jpg,một thanh niên tên Hà đến gửi 200.000 đ. Sau đó nữa là rất,"một thanh niên Tại Điện Biên Quý 200.000. Sau đó mua là Nội,",0.3448275862068966
+253,6.jpg,"nhiều bạn đọc gọi đến bày tỏ sự chia sẻ, ủng hộ.","nhiều hơn đặc phẩm bảy bộ nơi chôn lều, cũng hơi",0.5208333333333334
+253,7.jpg,Ban biên tập báo Tuổi Trẻ cũng quyết định gửi tặng nhóm công nhân,"Ban liên lạc báo "" tuần "" từ cùng quyết định giá tổng nhân công nhân",0.27692307692307694
+253,8.jpg,đã tố cáo tiêu cực ở đường liên cảng A5 10 triệu đồng. Đừng để người dân,"để tổ chức cuộc ở đây lặn cổng A5 10 tuần đông. Đây, đề nghị dân",0.4166666666666667
+253,9.jpg,"đặt cược cho niềm tin! Qua báo chí, bản thân tôi đã được biết về việc tố cáo những","đặc cuộc cho niềm tin! Qua bốn chị, bạn thân tôi đã kiệt về với tôi 20 triệu đồng,",0.36585365853658536
+253,10.jpg,"sai phạm của công rình đường liên cảng A5 mấy năm trước đây, nhưng nay","dài phạm của công trình đường liên cảng A5 mạng liên tục cty, nhưng này",0.22857142857142856
+253,11.jpg,mới biết việc làm dũng cảm và tốt đẹp đó đã mang đến bao hệ lụy phiền phức,"mái biệt "" việc bán chúng còn và bất đẹp đã mang đến bao bì lòng phận phúc",0.33783783783783783
+253,12.jpg,"cho những người trong cuộc, những người mà theo tôi vô cùng xứng đáng với danh","cho người sống mà, những người mà "" chơi với cũng xứng đáng và đánh",0.34615384615384615
+253,13.jpg,hiệu hiệp sĩ.,hẹn huyện Đà Lạt.,0.9230769230769231
+253,14.jpg,"Thế nhưng những hiệp sĩ ấy giờ ra sao? Người thì lang thang, phiêu bạt, kẻ thì","Thế nhưng những hiệp ích nổi ngộ của Anh? Ngoài thế bây thường, phần bạt, hè nhị",0.38461538461538464
+253,15.jpg,"vợ bỏ, kẻ thì cày ải trên những con đường đô thị để lượm ve chai, phải tá túc trong","vô hộ, kể thịt cây ái trên con chim, đó thì đã xuân ve chai, phải ra tù công",0.39759036144578314
+253,16.jpg,những căn chòi tạm bợ sống qua ngày. Ngẫm sao mà thương thế! Đáng lẽ phải được,"những con thật bom bố rằng gia rộng. Ngồi vào món trứng, chơi đón lễ phồn chua.",0.48717948717948717
+253,17.jpg,tôn vinh thì trái lại những con người ấy đã bị đẩy xuống đáy cùng của cuộc,"tôi sinh thẻ trên bàn những con người cây đá bị dây xuống dày cũng còn cán,",0.28378378378378377
+253,18.jpg,"sống! Cũng may mà anh Đại đã thắng kiện, đó chắc là một niềm an ủi và","công! cũng may mà anh Đan đã không biết, đó chắc là niệm của cư vấn",0.30434782608695654
+253,19.jpg,"là một khẳng định để anh và các đồng nghiệp, người thân tin rằng các","là những định đã mạnh mẽ các động nghiệp, người chôn tín công sự,",0.29411764705882354
+253,20.jpg,anh không đơn độc trong việc theo đuổi niềm tin về lẽ phải của mình.,anh khẳng đơn Đại Luật Việt và nhiều giám định tìm cụ thể phải mà mình.,0.5
+253,21.jpg,"Lại nữa, khi thanh tra đã xác định sai phạm sao không xử lý mà để "" ngâm ""","Lại mưa, khi thành tạo đất xác định sự phồm sở hữu, xử lý mở cửa ngầm",0.32432432432432434
+253,22.jpg,lâu ngày đến vậy? Tôi không phải là người trong lĩnh vực chuyên môn nhưng,lên ngày cận vậy? Về khối vĩnh phủ là nguyên tắc kinh tế trực chuyển mâm những,0.4657534246575342
+253,23.jpg,có thể hình dung công trình đường liên cảng A5 chắc là nhằm phục vụ hoạt động của,"có "" chủ hình chung công trình điện liên cảng A5 chứa nhân phẩm, vụ hoại động cản,",0.2839506172839506
+253,24.jpg,các nhà đầu tư trong Khu chế xuất Tân Thuận. Vậy thì khi không khắc phục ngay,"các nghề dầu lư trong khi đã xuất "" tôm Thượng. Vận thủ không khỏi phức tạp, ngày",0.38961038961038963
+253,25.jpg,"mà còn để con đường xuống cấp thê thảm, có phải là góp thêm phần","mà còn đề án đường xâm ý nghĩa hơn, có phải ký góp thêm biên",0.34375
+253,26.jpg,"làm xấu đi môi trường đầu tư của thành phố hay không, và cũng",bán xã / đã mua xuất địa của Châu phố Hàng không 1 nữ cũng,0.5081967213114754
+253,27.jpg,đồng nghĩa với việc mất đi bao nhiêu cơ hội làm việc và cải thiện cuộc sống,tây nghĩa và việc mà ít bọn nhiên vợ hơn bốn việc và cả thiếu của cộng,0.37333333333333335
+253,28.jpg,của người lao động - đồng bào - hay không?,của người lao động - đồng bộ - họ thường?,0.16666666666666666
+253,29.jpg,"Chúng ta "" hoan nghênh và biểu dương những việc làm tốt của công nhân",chúng tôi có bên nghẽn và hiện thương như việc làm lại của công nhân,0.2898550724637681
+253,30.jpg,"xây dựng trong việc thông tin, phản ánh sai phạm của công trình đường","xây dựng bảng vực đi mỗi giờ phim "" anh gái phạm của "" công trình đường",0.3333333333333333
+253,31.jpg,"liên cảng A5 "", nhưng chắc là không có hình thức hoan nghênh và biểu","Hơn vòng AS "", nhưng chắc là không có biết Thành ương ngành vì liên",0.3382352941176471
+253,32.jpg,dương nào thiết thực hơn đối với anh Đại và những đồng nghiệp là xử lý ngay,"dương Chúc Thứ hai vẫn anh Đại vẫn mặn, đầy nghiệp bị xót gì ngay",0.4266666666666667
+253,33.jpg,những sai phạm (đã rõ mười mươi) và có biện pháp hữu hiệu khắc phục,khẳng định phạm (đã có muốn muốn) và có kiến pháp hiến biểu lên được,0.417910447761194
+253,34.jpg,những sai phạm đó. Có như vậy niềm tin vào lẽ phải mới được khôi phục,"những nữa làm "" đế "". Có những ngày mặn, gần vừa là phía nước để khẳng định,",0.6086956521739131
+253,35.jpg,và người dân sẽ không còn phải đặt cược cho niềm tin của mình.,cả người dân sẽ không còn phải đặt được cho mỗi kim nữa mỗi ng,0.25806451612903225
+253,36.jpg,Phải là một câu chuyện đàng hoàng! Nhóm công nhân dũng cảm ấy gồm,Phân tắc mãi cũ chuyện không không khỏi con người chuyện cũng ủy quy,0.5846153846153846
+253,37.jpg,20 người vậy mà hầu như nay đã lang bạt hết. Chỉ còn anh Đại và bốn,20 người Vũng Mã hầu như ra ngơ đá bụy lên kết. Chỉ 1 mình Đại Việt biết,0.43283582089552236
+253,38.jpg,"người khác. Thân phận, cuộc sống của họ là bi đát, và điều mỉa mai cũng","người NHÀ. Thân phận, luật ngang của họ đi từ gà đầu mũi nói của cũng",0.38028169014084506
+253,39.jpg,"như làm chạnh lòng tôi là có phải họ đã xả thân vì đại nghĩa để rồi gia đình,","như bản chất này, bình phí hạ đã xả 1% nữa, đã gây ảnh hưởng đến "" giá trị "" gia đình",0.6753246753246753
+253,40.jpg,"vợ con ly tán, thất nghiệp, lâm vào cảnh đời tan nát như thế sao! Vì sao họ","vô vận bán thôi nghèo, lãnh vực cánh đầu tư mới như thế nào? Vì họ",0.44
+253,41.jpg,"đã làm điều đó? Ba năm trôi qua, chắc hẳn đã hàng trăm, ngàn lần","để bán được được Bạc nậm tận nạn, Chốc Hải đã hỏi đưa tôm, người hộ",0.5625
+253,42.jpg,"câu hỏi đó tự đến với họ hoặc đến từ người thân, bạn bè đi kèm sự chua",còn hai dự án điện và hộ hành đơn tự người thông báo để hẹn sự chào,0.42857142857142855
+253,43.jpg,"chát, ngậm ngùi.","chất, nguyên nhân.",0.5
+253,44.jpg,"Và hôm nay, chúng ta cũng cần hỏi câu hỏi này với chính mình.","và bám này, chúng ta cũng còn hồi sẵn hằng vụ chính mình.",0.2459016393442623
+254,1.jpg,KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM,KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM,0.0
+254,2.jpg,Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam,Nước ta gặp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam,0.028985507246376812
+254,3.jpg,là một phần biển Đông.,là một phần biển Đông.,0.0
+254,4.jpg,"Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2","Bờ biển dài 3.280 km, từ Quảng Ninh đến Kiên Giang. Nhờ vậy cứ 100 km2",0.02857142857142857
+254,5.jpg,thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).,thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).,0.0
+254,6.jpg,"Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với","Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với",0.0
+254,7.jpg,diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 /,liên tách trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2),0.07352941176470588
+254,8.jpg,330.000 km2),330.000 km2.,0.08333333333333333
+254,9.jpg,"Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ,","Trong đó có 2 quần đảo Hoàng Sa, 2 trường Sa và 2.577 đảo lớn, nhỏ,",0.03076923076923077
+254,10.jpg,"gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ","gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ",0.0
+254,11.jpg,vùng biển.,một biện.,0.5
+254,12.jpg,"Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,","Cả vị trí chiến lược quan trọng : nối liền với Bình Dương với Ảnh Địa Dương,",0.10666666666666667
+254,13.jpg,"châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận","châu Á với châu Âu, châu Úc với Ðông Đông. Giao lưu quốc tế thuận",0.045454545454545456
+254,14.jpg,"lợi, phát triển ngành biển.","lời, phát triển ngành biển.",0.037037037037037035
+254,15.jpg,Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát,Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát,0.0
+254,16.jpg,"triển, tồn tại tốt.","triển, tồn tại tốt.",0.0
+254,17.jpg,"Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.","Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.",0.0
+254,18.jpg,"Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng","Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng",0.0
+254,19.jpg,trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa,trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa,0.0
+254,20.jpg,"xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn","xã Hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn",0.0
+254,21.jpg,minh và hạnh phúc của nhân dân.,mình và hạnh phúc của nhân dân.,0.03225806451612903
+255,1.jpg,BẢN CHẤT CỦA THÀNH CÔNG,BẢN CHẤT CỦA THÀNH CÔNG,0.0
+255,2.jpg,Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng,để bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng,0.011111111111111112
+255,3.jpg,"đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói","đã là kết quả hoàn hảo trong công việc, sự chính xác đáng từng chú trọt? Hay đó là cách nói",0.06666666666666667
+255,4.jpg,"khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?","khác của từ thành đạt, nghĩa là có được cuộc sống giàu sang, đặc mỹ nghệ, nỗ lực phục ở",0.20454545454545456
+255,5.jpg,Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.,Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.,0.0
+255,6.jpg,Cuộc sống sẽ chỉ cho bạn có những người thành đạt được thành công theo một cách giản dị đến bất,Gieo rộng sẽ chỉ cho bạn có những người thành đạt thành công theo một cách giản dị trên tài,0.17894736842105263
+255,7.jpg,ngờ,tốt.,1.3333333333333333
+255,8.jpg,"Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân","Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân",0.0
+255,9.jpg,"ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang","ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đang lệ phải có màu đỏ sậm thì lại ngả sang",0.02197802197802198
+255,10.jpg,"màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành","màu... đen cháy. Nhưng nhìn màn cơm, mẹ vẫn cười : "" Bởi vì hai bố con không thể thành",0.07228915662650602
+255,11.jpg,"công trên "" chiến trường "" bếp núc, nhưng lại thành công khi tặng mẹ "" đoá hồng "" của tình yêu.","công trình "" chiến trường "" bếp núc, nhưng lại thành công khi tôi thấy "" đá bóng "" của tinh yếu.",0.14736842105263157
+255,12.jpg,"Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt","một món quà ý nghĩa hơn cả những món quà già, hành phúc ấy long lanh in trong nỗi",0.10588235294117647
+255,13.jpg,mẹ.,mở.,0.3333333333333333
+255,14.jpg,"Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường","Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường",0.0
+255,15.jpg,"được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu","thức. Từ nhỏ cậu đến nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao rồi kéo khổ luyện, cậu",0.125
+255,16.jpg,"bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.","bé tốt thành cầu thủ dự bị trong một đội bóng nhỏ, vô chiều bao giờ được chính thức ra sân.",0.06666666666666667
+255,17.jpg,"Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao","Nhưng đó không phải là thách bại. Trái lại, thành công đều nổi hiện nay khi cậu bé năm tuổi, với bảo",0.1978021978021978
+255,18.jpg,"nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.","nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.",0.0
+255,19.jpg,"Thành công ấy, liệu có mấy người đạt được?","Thành công ấy, liệu có mấy người đạt được?",0.0
+255,20.jpg,"Sau mỗi mùa thi đại học, có bao "" sĩ tử "" buồn rầu khi biết mình trở thành "" sĩ tử "". Hai bảy điểm,","Sau mỗi mùa thi đại học, có bao "" sĩ tử "" buồn rầu khi biết mình trở thành "" sĩ tử "" tại bảy điểm,",0.030303030303030304
+255,21.jpg,cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải,cho thật đấy. Nhưng cao mà làm gì khi NV2 lấy tới hai bảy phẩy năm trở thật ra không phải?,0.07865168539325842
+255,22.jpg,"là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với","là thoát bại, chở lộ khi thanh công - bị - tội - hoặc mua thịt. Quê sống vẫn chào đón họ với",0.17582417582417584
+255,23.jpg,"NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên","NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa văn nguyên",0.011235955056179775
+255,24.jpg,"của các kỳ thi, và cũng là bản chất của thành công.","của các kỳ thi, và cũng là bản chất của thành công.",0.0
